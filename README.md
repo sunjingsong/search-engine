@@ -1,2 +1,3 @@
 # search-engine
-This is a class project to simulate the search engine
+This is a class project(csc583) to simulate the search engine
+The MicroEngine(or MacroMiner) is a web-based search engine that is an extension of the MicroMiner software system. The MicroEngine will use a simplified Internet crawler that will crawl the Internet to collect web pages and keywords on those pages, whereas the KWIC++ which is an extension to the KWIC+ software system that was previously designed, implemented, and delivered. In the case of the project, we adopt the multi-tier architectural pattern, that allows the MicroEngine to accept lines of keywords and return a list of descriptors and URLs to the user, by which is built using HTML that runs with a dynamic web-browser using the python server with REST APIs.
